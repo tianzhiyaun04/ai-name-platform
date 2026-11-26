@@ -11,6 +11,7 @@ const routes = {
   '/api/name': require('../api/name'),
   '/api/history': require('../api/history'),
   '/api/models': require('../api/models'),
+  '/api/health': require('../api/health'),
 };
 
 const MIME = {
